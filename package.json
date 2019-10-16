@@ -2,7 +2,7 @@
   "name": "my-recipe-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://victorreverter.github.io/react-recipe",
+  "homepage": "https://victorreverter.github.io/react-recipe",
   "dependencies": {
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
